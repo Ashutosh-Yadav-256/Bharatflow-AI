@@ -40,14 +40,14 @@ Zero-Cost Architecture: Built with zero model training requirements and zero pai
 
 ---
 
-## Live Production Deployment
+## Live Production Deployment.
 
 - Global Web Application: https://bharatflow-ai-nvbz.onrender.com
 - API Status Healthcheck: https://bharatflow-ai-nvbz.onrender.com/api/status
 
 ---
 
-## End-to-End Pipeline Architecture
+## End-to-End Pipeline Architecture.
 
 ```
                     ┌───────────────────────────────────┐
